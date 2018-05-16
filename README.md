@@ -12,7 +12,7 @@ The sorting of objects into groups is a fundamental operation, critical in the p
 
 **Links**
 
-DOI:  [10.1073/pnas.1721929115](doi.org/10.1073/pnas.1721929115)
+DOI:  [10.1073/pnas.1721929115](https://doi.org/10.1073/pnas.1721929115)
 
 The jupyter notebook contains the code to run simulations and plot the results. 
 
